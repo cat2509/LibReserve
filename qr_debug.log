@@ -1,0 +1,56 @@
+2025-04-10 20:57:04 - Accessed with parameters: Array
+(
+    [id] => STUD10
+    [table] => 3
+    [time] => 2025-04-11 03:01:00
+    [chairs] => 2
+)
+
+2025-04-10 20:57:24 - Accessed with parameters: Array
+(
+    [id] => STUD10
+    [table] => 3
+    [time] => 2025-04-11 03:01:00
+    [chairs] => 2
+)
+
+2025-04-10 20:57:36 - Accessed with parameters: Array
+(
+    [id] => STUD10
+    [table] => 3
+    [time] => 2025-04-11 03:01:00
+    [chairs] => 2
+)
+
+2025-04-10 20:59:51 - Accessed with parameters: Array
+(
+    [id] => STUD10
+    [table] => 3
+    [time] => 2025-04-11 03:01:00
+    [chairs] => 2
+)
+
+2025-04-10 21:17:53 - Accessed with parameters: Array
+(
+    [id] => STUD10
+    [table] => 3
+    [time] => 2025-04-11 08:00:00
+    [chairs] => 3
+)
+
+2025-04-10 21:18:43 - Accessed with parameters: Array
+(
+    [id] => STUD10
+    [table] => 3
+    [time] => 2025-04-11 08:00:00
+    [chairs] => 3
+)
+
+2025-04-10 21:20:45 - Accessed with parameters: Array
+(
+    [id] => STUD10
+    [table] => 3
+    [time] => 2025-04-11 08:00:00
+    [chairs] => 3
+)
+
