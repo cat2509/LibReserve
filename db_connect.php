@@ -1,9 +1,9 @@
 <?php
 // Database configuration
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "library_booking";
+$servername = "sql12.freesqldatabase.com";
+$username = "sql12773516";
+$password = "RYvYlPZWEw";
+$dbname = "sql12773516";
 
 // Create connection with error reporting
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
